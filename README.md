@@ -41,8 +41,3 @@ Built for execution in the QtSpim simulator as a project for coursework on MIPS 
 - **QtSpim simulator**
 - Load `.asm` file and step/run program
 
----
-
-## Author
-
-[Madelyn Yarber](https://github.com/MadelynYarber)
